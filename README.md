@@ -1,0 +1,2 @@
+# dbrefresh
+DROP DATABASE
